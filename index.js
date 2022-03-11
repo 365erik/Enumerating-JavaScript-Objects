@@ -9,7 +9,7 @@ const clothing = {
 	shirts: 7,
 }
 
-const nl = () => console.log('\n');
+const nl = () => console.log('\n---\n');
 
 // Iterate through an object using the keys...
 // Note the nested object will give us trouble for a bit, but we'll get to it.)
