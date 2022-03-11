@@ -1,3 +1,4 @@
 # Enumerating JavaScript Objects
 
-Some notes on looping over JS objects to gather their contents.
+This is a repl demonstrating how to loop over JavaScript hashmaps (data objects) and inspect their contents. See it in action here: https://replit.com/@365Erik/Enumerating-JavaScript-Objects.
+
